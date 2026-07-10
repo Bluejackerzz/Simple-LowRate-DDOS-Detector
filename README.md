@@ -15,7 +15,7 @@ Condition where the detector sucessfully detect and block the ip of the attacker
 ## Folders
 
 ```text
-ids-gru-project/
+Simple-LowRate-DDOS-Detector/
 │
 ├── core/
 │   ├── __init__.py
