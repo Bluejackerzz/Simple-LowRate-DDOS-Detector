@@ -6,9 +6,9 @@ basicaly its an Intrusion Detection System(IDS) to identify and mitigate low-rat
 Currently how it works its still dependant on the GRU Models to track the connection patterns between packets, so expect false positive or vice versa
 
 ---
-##UI
+## UI
 
-![Screenshot](https://i.postimg.cc/GtQnDMmM/imagehehehddos.png)
+![Screenshot](https://i.postimg.cc/cHkQJWQM/imagehehehddosyey.png)
 
 
 ## Folders
@@ -27,7 +27,7 @@ ids-gru-project/
 ├── app.py                  
 └── attack_low_rate.py      # Use/put this in another VM/PC to act as an attacker
 ```
-##Dependencies
+## Dependencies
 its only works on Linux type OS, so as long the VM or hypervisor using linux its a okay
 
 its using libcap and iptables
@@ -55,7 +55,7 @@ to run the detector just use
 sudo python3 app.py
 ```
 
-##Others 
+## Others 
 
 you can also use the attack_low_rate.py to test to attack the VM wheres the detector is placed 
 
