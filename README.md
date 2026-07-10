@@ -72,3 +72,8 @@ to execute
 ```text
 python3 attack_low_rate.py
 ```
+
+
+IS IT THEORITICALLY CAN HANDLE SYN FLOOD?
+
+YES, but it will gonna bottlenect the scapy
