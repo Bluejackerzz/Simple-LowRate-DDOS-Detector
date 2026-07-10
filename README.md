@@ -9,6 +9,7 @@ Currently how it works its still dependant on the GRU Models to track the connec
 ## UI
 
 ![Screenshot](https://i.postimg.cc/cHkQJWQM/imagehehehddosyey.png)
+Condition where the detector sucessfully detect and block the ip of the attacker
 
 
 ## Folders
